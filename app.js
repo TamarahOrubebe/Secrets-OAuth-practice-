@@ -187,10 +187,14 @@ app.post("/submit", function (req, res) {
     });
 });
 
-    
+    let PORT = process.env.PORT;
+		if (PORT == null || PORT == "") {
+			PORT = 3000;
+		}
+		
 
-app.listen(3000, function() {
+app.listen(PORT, function() {
 
-        console.log("server started on port 3000");
+        console.log("server started successfully");
     
     });
