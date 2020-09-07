@@ -24,15 +24,16 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-mongoose.connect("mongodb://localhost:27017/userDB",
-    { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true },
-    function (err) {
-        if (err) {
-            console.log(err);
-        } else {
-            console.log("Successfully connected to the DB");
-        }
-    }
+mongoose.connect(
+	"mongodb+srv://Tamarah:arsenalfc2@cluster0.ystah.mongodb.net/userDB",
+	{ useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true },
+	function (err) {
+		if (err) {
+			console.log(err);
+		} else {
+			console.log("Successfully connected to the DB");
+		}
+	}
 );
 
 
