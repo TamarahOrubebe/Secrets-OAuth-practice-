@@ -1,6 +1,6 @@
 # Secrets
 
-![Project Image](project-image-url)
+![Project Image](./images/Secrets3.png)
 
 > This is a ReadMe template to help save you time and effort.
 
@@ -20,11 +20,17 @@
 
 This is an app that implements Google's OAUTH2 for authentication.
 
+![Project Image](./images/Secrets2.png)
+
+
+
 #### Technologies
 
 - Nodejs
 - Express
 - Passport
+- HTMl
+- CSS
 
 
 [Back To The Top](#Serets)
