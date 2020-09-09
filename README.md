@@ -65,7 +65,7 @@ This is an app that implements Google's OAUTH2 for authentication.
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2020] [Tamarah Orubebe]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
