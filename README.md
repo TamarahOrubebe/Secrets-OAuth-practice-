@@ -2,7 +2,7 @@
 
 ![Project Image](./images/Secrets3.png)
 
-> This is a ReadMe template to help save you time and effort.
+
 
 ---
 
@@ -29,7 +29,7 @@ This is an app that implements Google's OAUTH2 for authentication.
 - Nodejs
 - Express
 - Passport
-- HTMl
+- HTML
 - CSS
 
 
@@ -65,7 +65,7 @@ This is an app that implements Google's OAUTH2 for authentication.
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2017] [Tamarah Orubebe]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -85,7 +85,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Secrets)
 
 ---
 
